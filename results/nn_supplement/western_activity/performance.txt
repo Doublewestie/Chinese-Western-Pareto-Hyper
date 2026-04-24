@@ -1,0 +1,3 @@
+AUC: 0.9046
+Accuracy: 0.8233
+F1-score: 0.8929

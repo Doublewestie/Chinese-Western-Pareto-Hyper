@@ -1,0 +1,54 @@
+#使用软件/平台
+vs code
+anaconda
+python=3.13.12
+
+# 核心科学计算与数据处理
+numpy==2.4.2
+pandas==2.3.3
+scipy==1.17.1
+sympy==1.14.0
+
+# 机器学习与集成模型
+scikit-learn==1.7.1
+xgboost==3.2.0
+lightgbm==4.6.0
+catboost==1.2.10
+
+# 模型可解释性
+shap==0.51.0
+
+# 表格基础模型 (TabPFN)
+tabpfn==7.1.1
+
+# 超参数优化
+optuna==4.8.0
+hyperopt==0.2.7
+
+# 可视化
+matplotlib==3.10.8
+seaborn==0.12.2
+plotly==6.7.0
+
+# 文件读写
+openpyxl==3.1.5
+
+# 统计与生存分析
+statsmodels==0.14.6
+lifelines==0.30.3
+
+# 数学规划求解器
+pulp==3.3.0
+
+# 进度条
+tqdm==4.67.3
+
+# 其他必要依赖（间接依赖固定版本）
+joblib==1.5.3
+threadpoolctl==3.5.0
+networkx==3.6.1
+pyyaml==6.0.3
+click==8.3.2
+cloudpickle==3.1.2
+python-dateutil==2.9.0post0
+pytz==2026.1.post1
